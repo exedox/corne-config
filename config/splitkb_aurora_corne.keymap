@@ -46,6 +46,21 @@
             bindings = <&to 3>;
             key-positions = <37 40>;
         };
+
+        F4_Combo {
+            bindings = <&kp F4>;
+            key-positions = <3 4>;
+        };
+
+        F5_Combo {
+            bindings = <&kp F5>;
+            key-positions = <4 5>;
+        };
+
+        F3_Combo {
+            bindings = <&kp F3>;
+            key-positions = <2 3>;
+        };
     };
 
     keymap {
