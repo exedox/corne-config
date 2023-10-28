@@ -80,12 +80,7 @@
 
         winr {
             bindings = <&kp LG(LS(RIGHT))>;
-            key-positions = <5 7>;
-        };
-
-        winl {
-            bindings = <&kp LG(LS(LEFT))>;
-            key-positions = <5 6>;
+            key-positions = <0 11>;
         };
     };
 
