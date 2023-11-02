@@ -76,7 +76,7 @@
 
         shift {
             bindings = <&kp RSHIFT>;
-            key-positions = <34 35>;
+            key-positions = <35 23>;
         };
 
         winr {
