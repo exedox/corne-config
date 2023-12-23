@@ -106,7 +106,7 @@
                 <&inc_dec_kp C_VOL_UP C_VOL_DN>,
                 <&inc_dec_kp PAGE_UP PAGE_DOWN>;
 
-            label = "Exedox";
+            display-name = "Exedox";
         };
 
         lower_layer {
@@ -123,7 +123,7 @@
                                         &kp LGUI      &trans        &kp SPACE       &kp RET       &trans          &kp RALT
             >;
 
-            label = "Utility";
+            display-name = "Utility";
         };
 
         raise_layer {
@@ -140,7 +140,7 @@
                              &kp LGUI  &trans    &kp SPACE    &kp RET    &trans     &kp RALT
             >;
 
-            label = "Symbol";
+            display-name = "Symbol";
         };
 
         Adjust_layer {
@@ -151,7 +151,7 @@
                         &trans   &to 0    &trans     &trans           &tog 1  &trans
             >;
 
-            label = "Adjust";
+            display-name = "Adjust";
         };
     };
 };
